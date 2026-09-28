@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+.venv/
+.env
+.streamlit/secrets.toml
+*.sqlite
+*.sqlite3
